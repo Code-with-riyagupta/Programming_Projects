@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+int birthyear,currentyear,age;
+cout<<"Enter your Birth year";
+cin>>birthyear;
+cout<<"Enter the current year";
+cin >currentyear;
+cout<<"Your age currently is"<<(currentyear-birthyear);
+}
