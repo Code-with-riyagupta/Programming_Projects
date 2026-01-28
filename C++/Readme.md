@@ -1,11 +1,12 @@
-# C++ Basic Programs
+# C++ Programs
 
-Welcome to my C++ Programming Repository!  
-This repository contains a collection of real life projects based on C++ programs that demonstrate important programming concepts such as:
+Welcome to my C++ Programming sub-Repository!  
+This folder contains a collection of real life projects based on C++ programs that demonstrate important programming concepts such as:
 
 - Variables and Data Types  
 - Loops (for, while, do-while)  
-- Conditional Statements (if-else, switch)  
+- Conditional Statements (if-else, switch)
+- Pattern Printing 
 - Functions (with and without parameters)  
 - Recursion  
 - Arrays and Pointers  
@@ -26,7 +27,7 @@ This repository contains a collection of real life projects based on C++ program
 ##  About Me
 
 I am currently learning C++ and Data Structures.  
-This repository is a part of my learning journey and will be updated regularly with new concepts and programs.
+These project files are a part of my learning journey and will be updated regularly with new concepts and programs.
 
 ---
 
